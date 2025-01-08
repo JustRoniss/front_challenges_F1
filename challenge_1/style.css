@@ -1,0 +1,38 @@
+html{
+    font-family: Arial;
+}
+
+h1 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+p{
+    color: #b2b2b2
+}
+h2, span {
+    color: white;
+}
+
+.destaque {
+    color: #febe01;
+}
+
+.container {
+    padding: 5px 30px;
+    display: block;
+    background-color: #111;
+    width: 80%;
+    margin: 30px auto;
+    border-radius: 4px;
+}
+
+button{
+    background-color: #febe01;
+    color: #111;
+    padding: 15px;
+    font-size: 18px;
+    width: 130;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
