@@ -1,0 +1,51 @@
+body {
+    font-family: Arial;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.grid-n1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.grid-n2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: black;
+    justify-content: center;
+    align-content: center;
+    border-radius: 6px;
+
+}
+
+.preco {
+    background: #f866e0;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 6px;
+
+}
+
+.titulo{
+    margin-left: 10px;
+    justify-self : left;
+    color: white;
+}
+
+.imagem {
+    /* max-width: 100%; */
+    width: 720px;
+    height: 400px;
+    grid-column: 1;
+}
+
+.descricao {
+    color: white;
+    text-align: center;
+}
