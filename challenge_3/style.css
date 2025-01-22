@@ -1,0 +1,53 @@
+body{
+    font-family: 'Lexend Giga';
+}
+
+.container{
+    width: 80%;
+    margin: 5rem auto;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.nome-produto{
+    font-size: 48px;
+    place-self: end center;
+    font-weight: 400;
+}
+
+.preco{
+    font-size: 34px;
+    place-self: center;
+    border: #b3b3b3 1px solid;
+    border-radius: 22px;
+    color: #FFF017;
+    font-weight: 800;
+    background-color: #b2b2b2;
+    padding: 30px;
+
+}
+
+.grid-n1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+
+}
+
+.texto{
+    font-size: 18px;
+    text-align: center;
+    line-height: 5;
+    letter-spacing: 4px;
+    place-self: center;
+}
+
+.imagem {
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 100%;
+    height: auto;
+    grid-column: 1;
+}
