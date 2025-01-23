@@ -1,0 +1,7 @@
+textos:
+    titulo principal: bikcraft
+    itens menu: SOBRE, PRODUTOS,  LOJAS, CONTATO
+
+    titulo card: Bicicletas Feitas a Mão
+    texto card: A Nimbus Stark é a melhor Bikcraft já criada pela nossa equipe. Ela vem equipada com os melhores acessórios da marca
+    botao: Ver mais
